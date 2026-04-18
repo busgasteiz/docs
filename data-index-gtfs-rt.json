@@ -1,0 +1,457 @@
+{
+  "last-update": "2026-04-18 12:04:31",
+  "data": {
+    "Goierrialdea (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/goierrialdea/gtfsrt_goierrialdea_vehicle_positions.pb",
+        "name": "gtfsrt_goierrialdea_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/goierrialdea/gtfsrt_goierrialdea_trip_updates.pb",
+        "name": "gtfsrt_goierrialdea_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/goierrialdea/gtfsrt_goierrialdea_alerts.pb",
+        "name": "gtfsrt_goierrialdea_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      }
+    ],
+    "Ekialdebus (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/ekialdebus/gtfsrt_ekialdebus_vehicle_positions.pb",
+        "name": "gtfsrt_ekialdebus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/ekialdebus/gtfsrt_ekialdebus_alerts.pb",
+        "name": "gtfsrt_ekialdebus_alerts.pb",
+        "last-update": "2026-04-18 12:04:30"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/ekialdebus/gtfsrt_ekialdebus_trip_updates.pb",
+        "name": "gtfsrt_ekialdebus_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Guipuzkoana (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/guipuzkoana/gtfsrt_guipuzkoana_trip_updates.pb",
+        "name": "gtfsrt_guipuzkoana_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:30"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/guipuzkoana/gtfsrt_guipuzkoana_vehicle_positions.pb",
+        "name": "gtfsrt_guipuzkoana_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/guipuzkoana/gtfsrt_guipuzkoana_alerts.pb",
+        "name": "gtfsrt_guipuzkoana_alerts.pb",
+        "last-update": "2026-04-18 12:04:30"
+      }
+    ],
+    "EtxeBarriBus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/etxebarribus/gtfsrt_etxebarribus_alerts.pb",
+        "name": "gtfsrt_etxebarribus_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/etxebarribus/gtfsrt_etxebarribus_vehicle_positions.pb",
+        "name": "gtfsrt_etxebarribus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Hernaniko hiribusa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/hernaniko_hiribusa/gtfsrt_hernaniko_hiribusa_alerts.pb",
+        "name": "gtfsrt_hernaniko_hiribusa_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/hernaniko_hiribusa/gtfsrt_hernaniko_hiribusa_vehicle_positions.pb",
+        "name": "gtfsrt_hernaniko_hiribusa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:29"
+      }
+    ],
+    "Tbh (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tbh/gtfsrt_tbh_alerts.pb",
+        "name": "gtfsrt_tbh_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tbh/gtfsrt_tbh_trip_updates.pb",
+        "name": "gtfsrt_tbh_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tbh/gtfsrt_tbh_vehicle_positions.pb",
+        "name": "gtfsrt_tbh_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      }
+    ],
+    "Pesa (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/pesa/gtfsrt_pesa_vehicle_positions.pb",
+        "name": "gtfsrt_pesa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/pesa/gtfsrt_pesa_alerts.pb",
+        "name": "gtfsrt_pesa_alerts.pb",
+        "last-update": "2026-04-18 12:04:30"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/pesa/gtfsrt_pesa_trip_updates.pb",
+        "name": "gtfsrt_pesa_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Urbano de Tolosa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tolosa/gtfsrt_tolosa_alerts.pb",
+        "name": "gtfsrt_tolosa_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tolosa/gtfsrt_tolosa_vehicle_positions.pb",
+        "name": "gtfsrt_tolosa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:30"
+      }
+    ],
+    "Euskotren bus (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/euskotren_bus/gtfsrt_euskotren_bus_trip_updates.pb",
+        "name": "gtfsrt_euskotren_bus_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:30"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/euskotren_bus/gtfsrt_euskotren_bus_alerts.pb",
+        "name": "gtfsrt_euskotren_bus_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/euskotren_bus/gtfsrt_euskotren_bus_vehicle_positions.pb",
+        "name": "gtfsrt_euskotren_bus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Tolosaldea (Lurraldebus)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tolosaldea/gtfsrt_tolosaldea_alerts.pb",
+        "name": "gtfsrt_tolosaldea_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tolosaldea/gtfsrt_tolosaldea_trip_updates.pb",
+        "name": "gtfsrt_tolosaldea_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lurraldebus/tolosaldea/gtfsrt_tolosaldea_vehicle_positions.pb",
+        "name": "gtfsrt_tolosaldea_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:29"
+      }
+    ],
+    "Bermibusa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/bermibusa/gtfsrt_bermibusa_vehicle_positions.pb",
+        "name": "gtfsrt_bermibusa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/bermibusa/gtfsrt_bermibusa_alerts.pb",
+        "name": "gtfsrt_bermibusa_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      }
+    ],
+    "Dbus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/dbus/gtfsrt_dbus_trip_updates.pb",
+        "name": "gtfsrt_dbus_trip_updates.pb",
+        "last-update": "2026-03-26 08:11:44"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/dbus/gtfsrt_dbus_alerts.pb",
+        "name": "gtfsrt_dbus_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/dbus/gtfsrt_dbus_vehicle_positions.pb",
+        "name": "gtfsrt_dbus_vehicle_positions.pb",
+        "last-update": "2026-03-26 08:42:45"
+      }
+    ],
+    "Oñati": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/onati/gtfsrt_onati_alerts.pb",
+        "name": "gtfsrt_onati_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/onati/gtfsrt_onati_vehicle_positions.pb",
+        "name": "gtfsrt_onati_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      }
+    ],
+    "Tuvisa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/tuvisa/gtfsrt_tuvisa_trip_updates.pb",
+        "name": "gtfsrt_tuvisa_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/tuvisa/gtfsrt_tuvisa_vehicle_positions.pb",
+        "name": "gtfsrt_tuvisa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/tuvisa/gtfsrt_tuvisa_alerts.pb",
+        "name": "gtfsrt_tuvisa_alerts.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Erandio! busa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/erandio_busa/gtfsrt_erandio_busa_vehicle_positions.pb",
+        "name": "gtfsrt_erandio_busa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Euskotren": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/euskotren/gtfsrt_euskotren_alerts.pb",
+        "name": "gtfsrt_euskotren_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/euskotren/gtfsrt_euskotren_vehicle_positions.pb",
+        "name": "gtfsrt_euskotren_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/euskotren/gtfsrt_euskotren_trip_updates.pb",
+        "name": "gtfsrt_euskotren_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "AlavaBus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/alavabus/alert.bin",
+        "name": "alert.bin",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/alavabus/tripUpdate.bin",
+        "name": "tripUpdate.bin",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/alavabus/position.bin",
+        "name": "position.bin",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Xorrola (Oiartzun)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/oiartzun/gtfsrt_xorrola oiartzun_vehicle_positions.pb",
+        "name": "gtfsrt_xorrola oiartzun_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/oiartzun/gtfsrt_xorrola oiartzun_alerts.pb",
+        "name": "gtfsrt_xorrola oiartzun_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      }
+    ],
+    "Udalbus (Eibar)": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/eibar/gtfsrt_udalbus_eibar_alerts.pb",
+        "name": "gtfsrt_udalbus_eibar_alerts.pb",
+        "last-update": "2026-04-18 12:04:30"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/eibar/gtfsrt_udalbus_eibar_vehicle_positions.pb",
+        "name": "gtfsrt_udalbus_eibar_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:29"
+      }
+    ],
+    "Lejoan busa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lejoan_busa/gtfsrt_lejoan_busa_vehicle_positions.pb",
+        "name": "gtfsrt_lejoan_busa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/lejoan_busa/gtfsrt_lejoan_busa_alerts.pb",
+        "name": "gtfsrt_lejoan_busa_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      }
+    ],
+    "Sopelbus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/sopelbus/gtfsrt_sopelbus_alerts.pb",
+        "name": "gtfsrt_sopelbus_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/sopelbus/gtfsrt_sopelbus_vehicle_positions.pb",
+        "name": "gtfsrt_sopelbus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Zarauzko hiribusa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/zarauzko_hiribusa/gtfsrt_zarauzko_hiribusa_vehicle_positions.pb",
+        "name": "gtfsrt_zarauzko_hiribusa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/zarauzko_hiribusa/gtfsrt_zarauzko_hiribusa_alerts.pb",
+        "name": "gtfsrt_zarauzko_hiribusa_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      }
+    ],
+    "BilboBus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/bilbobus/gtfsrt_bilbobus_vehicle_positions.pb",
+        "name": "gtfsrt_bilbobus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "BizkaiBus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/bizkaibus/gtfsrt_Bizkaibus_vehicle_positions.pb",
+        "name": "gtfsrt_Bizkaibus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/bizkaibus/gtfsrt_bizkaibus_trip_updates.pb",
+        "name": "gtfsrt_bizkaibus_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/bizkaibus/gtfsrt_Bizkaibus_alerts.pb",
+        "name": "gtfsrt_Bizkaibus_alerts.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ],
+    "Kbus": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/kbus/gtfsrt_kbus_vehicle_positions.pb",
+        "name": "gtfsrt_kbus_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/kbus/gtfsrt_kbus_alerts.pb",
+        "name": "gtfsrt_kbus_alerts.pb",
+        "last-update": "2026-04-18 12:04:31"
+      }
+    ],
+    "Arrasate": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/arrasate/gtfsrt_arrasate_vehicle_position.pb",
+        "name": "gtfsrt_arrasate_vehicle_position.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/arrasate/gtfsrt_arrasate_alerts.pb",
+        "name": "gtfsrt_arrasate_alerts.pb",
+        "last-update": "2026-04-18 12:04:30"
+      }
+    ],
+    "Errenteria Urbanoa": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/errenteria/gtfsrt_errenteriako urbanoa_alerts.pb",
+        "name": "gtfsrt_errenteriako urbanoa_alerts.pb",
+        "last-update": "2026-04-18 12:04:29"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/errenteria/gtfsrt_errenteriako urbanoa_vehicle_positions.pb",
+        "name": "gtfsrt_errenteriako urbanoa_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:31"
+      }
+    ],
+    "Metro Bilbao": [
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/metro_bilbao/gtfsrt_metro_bilbao_trip_updates.pb",
+        "name": "gtfsrt_metro_bilbao_trip_updates.pb",
+        "last-update": "2026-04-18 12:04:31"
+      },
+      {
+        "format": "GTFS-RT",
+        "url": "https://opendata.euskadi.eus/transport/moveuskadi/metro_bilbao/gtfsrt_metro_bilbao_vehicle_positions.pb",
+        "name": "gtfsrt_metro_bilbao_vehicle_positions.pb",
+        "last-update": "2026-04-18 12:04:28"
+      }
+    ]
+  }
+}
