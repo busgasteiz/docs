@@ -10,3 +10,8 @@
 ## Formato GTFS
 
 - [Reference - General Transit Feed Specification](https://gtfs.org/documentation/realtime/reference/)
+
+## Información sobre las líneas
+
+- [Tuvisa - Líneas y recorridos](https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=3cd3619b_11cc0f19a54__7ff1)
+- [Vitoria | Euskotren](https://www.euskotren.eus/es/tranvia/vitoria)
